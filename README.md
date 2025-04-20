@@ -1,0 +1,2 @@
+# bot-asesor-autorizado
+bot
